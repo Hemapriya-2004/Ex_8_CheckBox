@@ -157,6 +157,7 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## Output
+
 ![output](ttps://github.com/Hemapriya-2004/Ex_8_CheckBox/blob/main/j81.png)
 
 
